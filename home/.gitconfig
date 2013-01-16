@@ -1,0 +1,12 @@
+[user]
+	name = Robert J Samson
+	email = rjsamson@me.com
+[github]
+	user = rjsamson
+	token = b51a8b3199f50eea93fe1a2e5b275de1
+[alias]
+	lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --
+[core]
+	editor = vim
+[color]
+	ui = true
